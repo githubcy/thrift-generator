@@ -81,3 +81,6 @@ public class ThriftFileBuilderTest {
 
 
 ```
+
+
+对java 中java.util.Date类型无法识别？
